@@ -1,0 +1,1 @@
+Windows PowerShell Script used to copy everything in a folder to a Pen Drive. The drive letter is automatically detected if it is the only one connected. It contains error detection for the copy process and in case the Pen Drive isn't connected. 
